@@ -1,0 +1,2 @@
+The intenet of this program is to pull from a basic .csv, iterate through the dates, if the current date is matched, then send an SMS to notify you that it's that persons birthday.
+
